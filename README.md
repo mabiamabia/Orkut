@@ -1,5 +1,5 @@
-# Orkut :tada:
-## Remake Orkut com React.js
+# :tada: Orkut :tada:
+## Remake do Orkut utilizando React.js
 
 ### Página criada durante a imersão alura react
 
